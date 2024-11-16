@@ -1,2 +1,0 @@
-import{Cb as p,Db as m,Ea as i,Ic as f,Xb as r,Za as o,Zb as a,cc as d,ec as s,fc as c,ia as n}from"./chunk-GQ4PCDYO.js";import"./chunk-C6Q5SG76.js";var y=(()=>{class e{item=i.required();static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["ng-component"]],inputs:{item:[1,"item"]},standalone:!0,features:[d],decls:3,vars:3,template:function(t,u){t&1&&(p(0,"pre"),r(1),s(2,"json"),m()),t&2&&(o(),a("",c(2,1,u.item()),`
-`))},dependencies:[f]})}return e})();export{y as ItemComponent};
